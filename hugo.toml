@@ -11,3 +11,4 @@ theme = "hugo-coder"
     description = "Gedanken aus dem Zettelkasten."
     footerContent = "Primat des Vollzugs."
     hideFooter = false
+    customCSS = ["css/custom.css"]
