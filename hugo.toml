@@ -7,8 +7,7 @@ theme = "hugo-coder"
     pagerSize = 20
 
 [params]
-    author = "Roland Prammer"
-    description = "Ein privates Weblog über Zen, Fichte und das Leben."
-    info = "Nachmittagsbetreuer, Zen-Praktizierender & Fichte-Kenner"
-    footerContent = "Gedanken aus dem Zettelkasten."
+    author = "Ääs Thut"
+    description = "Gedanken aus dem Zettelkasten."
+    footerContent = "Primat des Vollzugs."
     hideFooter = false
