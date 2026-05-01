@@ -13,3 +13,4 @@ theme = "hugo-coder"
     hideFooter = false
     colorProtocol = "auto"
     customCSS = ["css/custom.css"]
+    favicon = "images/favicon.svg"
