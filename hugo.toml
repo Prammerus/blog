@@ -1,7 +1,8 @@
 baseURL = "https://Prammerus.github.io/blog/"
 languageCode = "de-at"
-title = "Zettel-Fichte"
+title = "Ääs Thut"
 theme = "hugo-coder"
+
 [pagination]
     pagerSize = 20
 
