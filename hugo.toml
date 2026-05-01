@@ -1,0 +1,13 @@
+baseURL = "https://Prammerus.github.io/blog/"
+languageCode = "de-at"
+title = "Zettel-Fichte"
+theme = "hugo-coder"
+[pagination]
+    pagerSize = 20
+
+[params]
+    author = "Roland Prammer"
+    description = "Ein privates Weblog über Zen, Fichte und das Leben."
+    info = "Nachmittagsbetreuer, Zen-Praktizierender & Fichte-Kenner"
+    footerContent = "Gedanken aus dem Zettelkasten."
+    hideFooter = false
